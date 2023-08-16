@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dhananjaya.tech/static/css/main.b0ac1ad8.css",
+    "main.js": "/dhananjaya.tech/static/js/main.983fe79f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/dhananjaya.tech/static/js/787.1ed0c42c.chunk.js",
+    "static/media/dream_travel.png": "/dhananjaya.tech/static/media/dream_travel.da1a73c9b5f45411e59b.png",
+    "static/media/new dp.jpg": "/dhananjaya.tech/static/media/new dp.78b01c5d1a3e15b0a4f2.jpg",
+    "static/media/weather_app.png": "/dhananjaya.tech/static/media/weather_app.da40db4140fde3d5a499.png",
+    "static/media/goole book seach app.jpg": "/dhananjaya.tech/static/media/goole book seach app.ca8c0576b32329302dc9.jpg",
+    "static/media/dream travel.jpg": "/dhananjaya.tech/static/media/dream travel.559021b9a6d2a4b18b30.jpg",
+    "static/media/lanka news.png": "/dhananjaya.tech/static/media/lanka news.dfdb6e4ee3258c22e8b4.png",
+    "static/media/clrek_auth_post_web.jpg": "/dhananjaya.tech/static/media/clrek_auth_post_web.1b88b2beb3b0b4d0718c.jpg",
+    "static/media/vscode theme.png": "/dhananjaya.tech/static/media/vscode theme.c84cabe8b1ad34f2c313.png",
+    "index.html": "/dhananjaya.tech/index.html",
+    "main.b0ac1ad8.css.map": "/dhananjaya.tech/static/css/main.b0ac1ad8.css.map",
+    "main.983fe79f.js.map": "/dhananjaya.tech/static/js/main.983fe79f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/dhananjaya.tech/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0ac1ad8.css",
+    "static/js/main.983fe79f.js"
+  ]
+}
