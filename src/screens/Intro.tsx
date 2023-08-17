@@ -72,7 +72,7 @@ function Intro({ onButtonClick, handlNav }: IntroProps) {
           <div style={{ width: "40px" }} />
 
           <Button
-          href='https://drive.google.com/file/d/1jzcdcieol6wcFP4qPcN0IJU0uKHp8Fy3/view?usp=sharing'
+          href='https://drive.google.com/file/d/1WhOlmTsWXHhfmL6LJapI-5LEGIvZ6FiS/view?usp=sharing'
           target="_blank"
             variant="outlined"
             style={{
