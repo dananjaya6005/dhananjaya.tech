@@ -5,7 +5,7 @@ import Tag from "../components/Tag";
 import Button from "@mui/material/Button";
 import Navbar from "../components/Navbar";
 import "react-awesome-button/dist/styles.css";
-import profile_pic from "../images/new dp.jpg";
+import profile_pic from "../images/dp2.jpg";
 
 interface IntroProps {
   onButtonClick: (index: any) => void;
