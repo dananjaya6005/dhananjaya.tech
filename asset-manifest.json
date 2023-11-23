@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0ac1ad8.css",
-    "main.js": "/static/js/main.24858e27.js",
+    "main.css": "/static/css/main.8536a938.css",
+    "main.js": "/static/js/main.99359c78.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/dream_travel.png": "/static/media/dream_travel.da1a73c9b5f45411e59b.png",
+    "static/media/GiftofHope.png": "/static/media/GiftofHope.4125d36116adb73d7d89.png",
+    "static/media/Rocket_rush.png": "/static/media/Rocket_rush.d9ce5ed87188a9020868.png",
     "static/media/weather_app.png": "/static/media/weather_app.da40db4140fde3d5a499.png",
     "static/media/dp2.jpg": "/static/media/dp2.01278a1ea785cdb44641.jpg",
     "static/media/goole book seach app.jpg": "/static/media/goole book seach app.ca8c0576b32329302dc9.jpg",
@@ -12,12 +14,12 @@
     "static/media/clrek_auth_post_web.jpg": "/static/media/clrek_auth_post_web.1b88b2beb3b0b4d0718c.jpg",
     "static/media/vscode theme.png": "/static/media/vscode theme.c84cabe8b1ad34f2c313.png",
     "index.html": "/index.html",
-    "main.b0ac1ad8.css.map": "/static/css/main.b0ac1ad8.css.map",
-    "main.24858e27.js.map": "/static/js/main.24858e27.js.map",
+    "main.8536a938.css.map": "/static/css/main.8536a938.css.map",
+    "main.99359c78.js.map": "/static/js/main.99359c78.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0ac1ad8.css",
-    "static/js/main.24858e27.js"
+    "static/css/main.8536a938.css",
+    "static/js/main.99359c78.js"
   ]
 }
