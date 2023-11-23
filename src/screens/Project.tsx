@@ -18,7 +18,7 @@ function Project() {
 
 <div className="threre_card_row"  >
         <CardView
-          link="https://github.com/dananjaya6005/Clrek-auth-with-expo.git"
+          link="https://www.youtube.com/watch?v=McLAFSQYvzo"
           projectName="Rocket Rush | Betting App"
           Tool="React Native Expo"
           Discription="RocketRush is a unique mobile game where users bet on the flight duration of a rocket that can crash anytime within the first 10 seconds. The longer the flight, the higher the winnings. Developed using React Native and Expo CLI, RocketRush offers a simple yet suspenseful gaming experience. We envision it evolving into a platform with various themes and game modes for a unique gaming experience. 😊"
@@ -27,7 +27,7 @@ function Project() {
 
         <CardView
           projectName="Lanka News App"
-          link="https://github.com/dananjaya6005/Lanka-News-app.git"
+          link="https://www.youtube.com/watch?v=rpJhI8BmwRE&t=2s"
           Tool="React + Supabase + Stripe + Clrek"
           Discription="TWelcome to our platform, a lifeline for economically challenged students and children in Sri Lanka. We provide a unique opportunity for you to make a difference. Create donation events and contribute using Visa, Mastercard, or other online payment methods. We ensure transparency with an admin feature tracking payment history and managing users. Sign up today with a verified email address and join us in transforming lives. Stay tuned for exciting new features! "
           Image={giftOfhope}
