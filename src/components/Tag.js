@@ -1,20 +1,10 @@
 import React from "react";
+import "./Tag.css";
 
-const Tag = ({ color, name, }) => {
-  const tagStyle = {
-    background: color,
-    fontSize: '0.8rem',
-    width: 'auto',
-    height: 'auto',
-    padding: '6px 10px',
-    color:'white',
-    display: 'inline-block',
-    borderRadius: '7px',
-    margin: '5px'
-    
-  };
 
-  return <div style={tagStyle}>{name}</div>;
+const Tag = ({  name, }) => {
+  
+  return <div className="tagView">{name}</div>;
 };
 
 export default Tag;

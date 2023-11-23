@@ -1,0 +1,20 @@
+.tagView{
+    background-color: rgb(114, 44, 78);
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+    padding: 6px 10px;
+    color:white;
+    display: inline-block;
+    font-size: 1rem;
+    margin: 5px;
+}
+
+
+@media only screen and (min-width: 1700px){
+ .tagView{
+    font-size: 1.2rem;
+    padding: 10px;
+    margin: 10px;
+ }
+}

@@ -44,3 +44,15 @@
     justify-content: flex-end;
     align-self: flex-end;
 }
+
+@media only screen and (min-width: 1700px){
+  .discription{
+    font-size: large;
+  }
+  .project_name{
+    font-size: xx-large;
+  }
+  .project_tool_txt{
+    font-size: large;
+  }
+}

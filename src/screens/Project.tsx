@@ -7,10 +7,70 @@ import lanka_news from "../post thumbnail/lanka news.png";
 import google_book from "../post thumbnail/goole book seach app.jpg";
 import weather_app from "../post thumbnail/weather_app.png";
 import vscode_theme from "../post thumbnail/vscode theme.png";
+import giftOfhope from '../post thumbnail/GiftofHope.png';
+import rocket_rush from '../post thumbnail/Rocket_rush.png';
+
+
 
 function Project() {
   return (
     <>
+
+<div className="threre_card_row"  >
+        <CardView
+          link="https://github.com/dananjaya6005/Clrek-auth-with-expo.git"
+          projectName="Rocket Rush | Betting App"
+          Tool="React Native Expo"
+          Discription="RocketRush is a unique mobile game where users bet on the flight duration of a rocket that can crash anytime within the first 10 seconds. The longer the flight, the higher the winnings. Developed using React Native and Expo CLI, RocketRush offers a simple yet suspenseful gaming experience. We envision it evolving into a platform with various themes and game modes for a unique gaming experience. 😊"
+          Image={rocket_rush}
+        />
+
+        <CardView
+          projectName="Lanka News App"
+          link="https://github.com/dananjaya6005/Lanka-News-app.git"
+          Tool="React + Supabase + Stripe + Clrek"
+          Discription="TWelcome to our platform, a lifeline for economically challenged students and children in Sri Lanka. We provide a unique opportunity for you to make a difference. Create donation events and contribute using Visa, Mastercard, or other online payment methods. We ensure transparency with an admin feature tracking payment history and managing users. Sign up today with a verified email address and join us in transforming lives. Stay tuned for exciting new features! "
+          Image={giftOfhope}
+        />
+
+      <CardView
+          projectName="Lanka News App"
+          link="https://github.com/dananjaya6005/Lanka-News-app.git"
+          Tool="React Native + Web Scraping"
+          Discription="This app was developed using React Native and web scraping to display Sinhala news from sources such as Ada Derana, Lankadeepa, BBC, and Mawbima. The app also utilizes RapidAPI to access various APIs and enhance its functionality. With its user-friendly interface and comprehensive coverage of current events, this app is a must-have for anyone looking to stay informed about the latest news in Sri Lanka."
+          Image={lanka_news}
+        />
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       <div className="threre_card_row"  >
         <CardView
           link="https://github.com/dananjaya6005/Clrek-auth-with-expo.git"
@@ -20,14 +80,13 @@ function Project() {
           Image={clerk_auth}
         />
 
-        <CardView
-          projectName="Lanka News App"
-          link="https://github.com/dananjaya6005/Lanka-News-app.git"
-          Tool="React Native + Web Scraping"
-          Discription="This app was developed using React Native and web scraping to display Sinhala news from sources such as Ada Derana, Lankadeepa, BBC, and Mawbima. The app also utilizes RapidAPI to access various APIs and enhance its functionality. With its user-friendly interface and comprehensive coverage of current events, this app is a must-have for anyone looking to stay informed about the latest news in Sri Lanka."
-          Image={lanka_news}
+      <CardView
+          projectName="Dream Travel"
+          Tool="Android stuido"
+          link="https://github.com/dananjaya6005/dream_travel_android_app.git"
+          Discription="This project involves the development of a mobile application using Android Studio that aims to enhance the travel experience for users. The app provides a range of features designed to address common challenges and problems faced by travellers. Travelers often struggle to find reliable and up-to-date information about travel-related news, local services, and attractions when visiting a new city or country."
+          Image={dream_travel}
         />
-
         <CardView
           projectName="Weather app"
           Tool="React native + API"
@@ -38,13 +97,7 @@ function Project() {
       </div>
 
       <div className="threre_card_row">
-        <CardView
-          projectName="Dream Travel"
-          Tool="Android stuido"
-          link="https://github.com/dananjaya6005/dream_travel_android_app.git"
-          Discription="This project involves the development of a mobile application using Android Studio that aims to enhance the travel experience for users. The app provides a range of features designed to address common challenges and problems faced by travellers. Travelers often struggle to find reliable and up-to-date information about travel-related news, local services, and attractions when visiting a new city or country."
-          Image={dream_travel}
-        />
+       
 
         <CardView
           projectName="Google Book search app"

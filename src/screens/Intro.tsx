@@ -42,14 +42,14 @@ function Intro({ onButtonClick, handlNav }: IntroProps) {
               </div>
 
               <div className="tag_handle">
-                <Tag color="#774360" name="React Native" />
-                <Tag color="#774360" name="React js " />
-                <Tag color="#774360" name="Typescript" />
-                <Tag color="#774360" name="Redux" />
-                <Tag color="#774360" name="Node js" />
-                <Tag color="#774360" name="Aws Amplify" />
-                <Tag color="#774360" name="Graphql" />
-                <Tag color="#774360" name="MongoDB" />
+                <Tag  name="React Native" />
+                <Tag  name="React js " />
+                <Tag  name="Typescript" />
+                <Tag  name="Zustand" />
+                <Tag  name="Node js" />
+                <Tag  name="Supabase" />
+                <Tag  name="Graphql" />
+                <Tag  name="MongoDB" />
               </div>
             </div>
           </div>
