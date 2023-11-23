@@ -27,7 +27,7 @@ function Project() {
 
         <CardView
           projectName="Lanka News App"
-          link="https://www.youtube.com/watch?v=rpJhI8BmwRE&t=2s"
+          link="https://www.youtube.com/watch?v=jU8k6WwgaeQ"
           Tool="React + Supabase + Stripe + Clrek"
           Discription="TWelcome to our platform, a lifeline for economically challenged students and children in Sri Lanka. We provide a unique opportunity for you to make a difference. Create donation events and contribute using Visa, Mastercard, or other online payment methods. We ensure transparency with an admin feature tracking payment history and managing users. Sign up today with a verified email address and join us in transforming lives. Stay tuned for exciting new features! "
           Image={giftOfhope}
